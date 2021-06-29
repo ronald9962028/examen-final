@@ -1,0 +1,10 @@
+PASOS PARA EJECUTAR EL SISTEMA
+
+se proporciono la base de datos llamado bd_proyecto_emergente
+
+DEBE CARGAR LA BASE DE DATOS EN SU GESTOR MYSQL
+
+al ingresar al sistema aparecera un login el cual:
+
+USUARIO:admin@gmail.com
+PASSWORD:admin
